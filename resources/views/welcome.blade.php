@@ -15,7 +15,7 @@
             html, body {
                 background-color: #000000;
                 color: #fff;
-                font-family: 'Raleway', sans-serif;
+                font-family: 'Open Sans', sans-serif;
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Tickets
                 </div>
 
                 <div class="links">
