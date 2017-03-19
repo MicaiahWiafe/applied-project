@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'Laravel',
+    'name' => 'Silverbird',
 
     /*
     |--------------------------------------------------------------------------
@@ -171,11 +171,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Silverbird\Providers\AppServiceProvider::class,
+        Silverbird\Providers\AuthServiceProvider::class,
+        // Silverbird\Providers\BroadcastServiceProvider::class,
+        Silverbird\Providers\EventServiceProvider::class,
+        Silverbird\Providers\RouteServiceProvider::class,
 
     ],
 
